@@ -222,7 +222,7 @@ header {
 }
 
 .about .row-1 .image {
-    flex: 1 1 23rem;
+    flex: 1 1 25rem;
 }
 
 .about .row-1 .image img {
@@ -235,7 +235,7 @@ header {
 }
 
 .about .row-1 .content {
-    flex: 1 1 45rem;
+    flex: 1 1 40rem;
 }
 
 .about .row-1 .content h3 {
